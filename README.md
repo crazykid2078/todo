@@ -1,6 +1,1 @@
-
-<img src="t1.png">
-<img src="t2.png">
-
-
-
+A very basic to-do list
